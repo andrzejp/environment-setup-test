@@ -8,6 +8,6 @@ class ASingleTest {
 
     @Test
     void fail_the_test() {
-        fail("This test fails, so the setup works!");
+//         fail("This test fails, so the setup works!");
     }
 }
